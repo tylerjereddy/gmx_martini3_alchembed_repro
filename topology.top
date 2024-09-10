@@ -1,0 +1,8 @@
+#include "martini_v3.0.0.itp"
+#include "martini_v3.0.0_phospholipids_v1.itp"
+#include "POPI_CG.itp"
+[system]
+MARTINI 3 lambda scaling
+[ molecules ]
+; Compound        #mols
+POPI              2
